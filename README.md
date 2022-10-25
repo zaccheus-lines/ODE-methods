@@ -1,3 +1,4 @@
-# Code repository for my Mathematical Modelling module and related projects
+# This is a repository for my exploration of different numerical methods in solving ODEs.
+
 
 
